@@ -180,3 +180,6 @@ ust_mid_ct_yields-wal
 ust_offer_ct_yields
 ust_offer_ct_yields-shm
 ust_offer_ct_yields-wal
+
+# [fork]
+research/**/*
